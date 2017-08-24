@@ -1,0 +1,5 @@
+use_ frameworks!
+
+target 'News' do
+pod 'SlideMenuControllerSwift'
+end

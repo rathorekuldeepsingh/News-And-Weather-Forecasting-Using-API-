@@ -1,0 +1,10 @@
+use_frameworks!
+
+target 'News' do
+pod 'MBProgressHUD'
+
+pod 'SideMenu'
+
+    
+end
+
